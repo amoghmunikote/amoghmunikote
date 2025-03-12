@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [hoofpilot](https://github.com/hoofpilot/hoofpilot)
 
-- 📫 How to reach me **amogh.munikote@gmail.com**
+- 📫 How to reach me **am@konik.ai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
