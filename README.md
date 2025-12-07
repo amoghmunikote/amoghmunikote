@@ -19,7 +19,7 @@
 ###
 
 <b>✨ Currently working on hoofpilot<br></b>
-<b>📫 Contact me at [am@konik.ai](am@konik.ai)</b>
+<b>📫 Contact me at [am@konik.ai](mailto:am@konik.ai)</b>
 
 ###
 
