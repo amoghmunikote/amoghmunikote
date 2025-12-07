@@ -18,7 +18,8 @@
 
 ###
 
-<h4 align="left">✨ Currently working on hoofpilot<br>📫 Contact me at am@konik.ai</h4>
+<b>✨ Currently working on hoofpilot<br></b>
+<b>📫 Contact me at [am@konik.ai](am@konik.ai)</b>
 
 ###
 
