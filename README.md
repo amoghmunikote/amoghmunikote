@@ -1,14 +1,9 @@
-<h1 align="left">Hey👋, I'm Amogh Munikote.</h1>
-
-<h4 align="left">I am the main developer of Konik AI's hoofpilot, an open-source self-driving system.</h4>
+<h1 align="left">Hey 👋, I'm Amogh Munikote.</h1>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<b>✨ Currently working on hoofpilot<br></b>
+<b>✨ Currently working on [hoofpilot](https://github.com/hoofpilot/hoofpilot), an open-source self-driving system for cars.<br></b>
+<b>🐇 Porting LineageOS to the [Rabbit R1](https://rabbit.tech/rabbit-r1).<br></b>
 <b>📫 Contact me at [am@konik.ai](mailto:am@konik.ai)</b>
 
 ###
