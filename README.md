@@ -3,7 +3,7 @@
 ###
 
 <b>✨ Currently working on [hoofpilot](https://github.com/hoofpilot/hoofpilot), an open-source self-driving system for cars.<br></b>
-<b>🐇 Porting LineageOS to the [Rabbit R1](https://rabbit.tech/rabbit-r1).<br></b>
+<b>👨‍💻 Attending [COMMA_HACK_6](https://blog.comma.ai/comma-hack-6)!<br></b>
 <b>📫 Contact me at [am@konik.ai](mailto:am@konik.ai)</b>
 
 ###
